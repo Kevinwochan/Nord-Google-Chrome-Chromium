@@ -1,0 +1,36 @@
+{
+  "version"     : "2",
+  "name"        : "Nord",
+  "description" : "A theme based of the Nord colour swatch by arctic ice stduios",
+  "theme"       : {
+    "colors"    : {
+      "frame"                             : [36, 41, 51],
+      "frame_inactive"                    : [59, 66, 82],
+
+      "background_tab"                    : [36, 41, 51],
+      "background_tab_inactive"           : [67, 76, 94],
+
+      "bookmark_text"                     : [216, 222, 233],
+      "button_background"                 : [255, 255, 0],
+
+      "tab_background_text"               : [76, 86, 106],
+      "tab_background_inactive"           : [255, 255, 0],
+      "tab_text"                          : [216, 222, 233],
+
+      "toolbar"                           : [59, 66, 82],
+      "toolbar_button"                    : [255, 255, 0],
+      "toolbar_button_icon"               : [255, 255, 0],
+
+      "ntp_background"                    : [46, 52, 64],
+      "ntp_header"                        : [255, 255, 0],
+      "ntp_link"                          : [255, 255, 0],
+      "ntp_text"                          : [216, 222, 233]
+   },
+    "tints"          : {
+     "buttons"                  : [0.61, 0.279, 0.88]
+    },
+    "properties"     : { }
+  },
+  "manifest_version" : 2
+}
+
