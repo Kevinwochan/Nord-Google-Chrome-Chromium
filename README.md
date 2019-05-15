@@ -1,6 +1,6 @@
 # Preview
 
-![Preview Image of theme](preview.jpg?raw=true "Preview")
+![Preview Image of theme](preview.jpeg?raw=true "Preview")
 
 # Installation
 ## From the Chrome Webstore
