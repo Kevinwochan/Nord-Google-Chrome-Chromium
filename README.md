@@ -1,4 +1,12 @@
+# Preview
+
+![Preview Image of theme](preview.jpg?raw=true "Preview")
+
 # Installation
+## From the Chrome Webstore
+https://chrome.google.com/webstore/detail/nordic-theme/abehfkkfjlplnjadfcjiflnejblfmmpj/reviews
+
+## As a developer
 Download the theme
 ```
 git clone https://github.com/Kevinwochan/Nord-Google-Chrome-Chromium.git
