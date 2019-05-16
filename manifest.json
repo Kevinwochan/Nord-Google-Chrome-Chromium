@@ -8,10 +8,10 @@
 	"theme": {
 		"colors": {
 			"frame" : [36, 41, 51],
-			"frame_inactive": [59, 66, 82],
+			"frame_inactive" : [36, 41, 51],
 
 			"background_tab": [36, 41, 51],
-			"background_tab_inactive" : [67, 76, 94],
+			"background_tab_inactive" : [76, 86, 106],
 
 			"bookmark_text" : [216, 222, 233],
 			"button_background": [36, 41, 51],
