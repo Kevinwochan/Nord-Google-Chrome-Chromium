@@ -1,11 +1,10 @@
 {
   "version"     : "2.1",
   "name"        : "Nord",
-  "description" : "A theme based of the Nord colour swatch by arctic ice stduios",
+  "description" : "A theme based of the Nord colour swatch by arctic ice studios",
   "theme"       : {
-    "images" :{
-      "theme_ntp_background": "background.png",
-      "ntp_background_tiling": "repeat-x"
+    "images"    : {
+      "theme_ntp_background": "background.png"
     },
     "colors"    : {
       "frame"                             : [36, 41, 51],
@@ -31,10 +30,11 @@
       "ntp_text"                          : [216, 222, 233]
    },
     "tints"          : {
-     "buttons"                  : [0.61, 0.279, 0.88]
+     "buttons"                   : [0.61, 0.279, 0.88]
     },
     "properties" : {
-      "ntp_background_alignment" : "bottom"
+      "ntp_background_alignment" : "bottom",
+      "ntp_background_repeat": "repeat-x"
     }
   },
   "manifest_version" : 2
