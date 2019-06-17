@@ -1,5 +1,5 @@
 {
-  "version"     : "2.1",
+  "version"     : "2.3",
   "name"        : "Nord",
   "description" : "A theme based of the Nord colour swatch by arctic ice studios",
   "theme"       : {
@@ -22,7 +22,7 @@
 
       "toolbar"                           : [59, 66, 82],
       "toolbar_button"                    : [255, 255, 0],
-      "toolbar_button_icon"               : [255, 255, 0],
+      "toolbar_button_icon"               : [216, 222, 233],
 
       "ntp_background"                    : [36, 41, 51],
       "ntp_header"                        : [255, 255, 0],
