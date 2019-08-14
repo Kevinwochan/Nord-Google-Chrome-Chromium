@@ -1,7 +1,3 @@
-# Preview
-
-![Preview Image of theme](preview.jpeg?raw=true "Preview")
-
 # Installation
 ## From the Chrome Webstore
 https://chrome.google.com/webstore/detail/nordic-theme/abehfkkfjlplnjadfcjiflnejblfmmpj/reviews
@@ -19,3 +15,7 @@ Enable Developer Mode by clicking the toggle switch next to Developer mode.
 Click the LOAD UNPACKED button and select the downloaded directory.
 
 Ta-da! The theme has been successfully installed. 
+
+# Preview
+
+![Preview Image of theme](preview.jpeg?raw=true "Preview")
