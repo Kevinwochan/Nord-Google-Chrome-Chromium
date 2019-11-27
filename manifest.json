@@ -4,7 +4,7 @@
   "description" : "A theme based of the Nord colour swatch by arctic ice studios",
   "theme"       : {
     "images"    : {
-      "theme_ntp_background": "background.png"
+      "theme_ntp_background": "background-4K.png"
     },
     "colors"    : {
       "frame"                             : [36, 41, 51],
