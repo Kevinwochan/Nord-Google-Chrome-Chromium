@@ -1,5 +1,5 @@
 {
-  "version"     : "2.3",
+  "version"     : "2.3.1",
   "name"        : "Nord",
   "description" : "A theme based of the Nord colour swatch by arctic ice studios",
   "theme"       : {
@@ -16,7 +16,7 @@
       "bookmark_text"                     : [216, 222, 233],
       "button_background"                 : [36, 41, 51],
 
-      "tab_background_text"               : [76, 86, 106],
+      "tab_background_text"               : [122, 134, 159],
       "tab_background_inactive"           : [255, 255, 0],
       "tab_text"                          : [216, 222, 233],
 
