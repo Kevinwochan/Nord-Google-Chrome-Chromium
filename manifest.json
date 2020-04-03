@@ -10,6 +10,9 @@
       "frame"                             : [36, 41, 51],
       "frame_inactive"                    : [36, 41, 51],
 
+      "frame_incognito"                   : [36, 41, 51],
+      "frame_incognito_inactive"          : [36, 41, 51],
+
       "background_tab"                    : [36, 41, 51],
       "background_tab_inactive"           : [41, 46, 56],
 
