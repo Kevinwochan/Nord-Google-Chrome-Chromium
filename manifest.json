@@ -1,45 +1,49 @@
 {
-  "version"     : "2.4.2",
-  "name"        : "Nord",
-  "description" : "A theme based of the Nord colour swatch by arctic ice studios",
-  "theme"       : {
-    "images"    : {
+  "version": "2.4.2",
+  "name": "Nord",
+  "description": "A theme based of the Nord colour swatch by arctic ice studios",
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "theme": {
+    "images": {
       "theme_ntp_background": "background-4K.png"
     },
-    "colors"    : {
-      "frame"                             : [36, 41, 51],
-      "frame_inactive"                    : [36, 41, 51],
+    "colors": {
+      "frame": [36, 41, 51],
+      "frame_inactive": [36, 41, 51],
 
-      "frame_incognito"                   : [36, 41, 51],
-      "frame_incognito_inactive"          : [36, 41, 51],
+      "frame_incognito": [36, 41, 51],
+      "frame_incognito_inactive": [36, 41, 51],
 
-      "background_tab"                    : [36, 41, 51],
-      "background_tab_inactive"           : [41, 46, 56],
+      "background_tab": [36, 41, 51],
+      "background_tab_inactive": [41, 46, 56],
 
-      "bookmark_text"                     : [216, 222, 233],
-      "button_background"                 : [36, 41, 51],
+      "bookmark_text": [216, 222, 233],
+      "button_background": [36, 41, 51],
 
-      "tab_background_text"               : [122, 134, 159],
-      "tab_background_inactive"           : [255, 255, 0],
-      "tab_text"                          : [216, 222, 233],
+      "tab_background_text": [122, 134, 159],
+      "tab_background_inactive": [255, 255, 0],
+      "tab_text": [216, 222, 233],
 
-      "toolbar"                           : [59, 66, 82],
-      "toolbar_button"                    : [255, 255, 0],
-      "toolbar_button_icon"               : [216, 222, 233],
+      "toolbar": [59, 66, 82],
+      "toolbar_button": [255, 255, 0],
+      "toolbar_button_icon": [216, 222, 233],
 
-      "ntp_background"                    : [36, 41, 51],
-      "ntp_header"                        : [255, 255, 0],
-      "ntp_link"                          : [255, 255, 0],
-      "ntp_text"                          : [216, 222, 233]
-   },
-    "tints"          : {
-     "buttons"                   : [0.61, 0.279, 0.88]
+      "ntp_background": [36, 41, 51],
+      "ntp_header": [255, 255, 0],
+      "ntp_link": [255, 255, 0],
+      "ntp_text": [216, 222, 233]
     },
-    "properties" : {
-      "ntp_background_alignment" : "bottom",
+    "tints": {
+      "buttons": [0.61, 0.279, 0.88]
+    },
+    "properties": {
+      "ntp_background_alignment": "bottom",
       "ntp_background_repeat": "repeat-x"
     }
   },
-  "manifest_version" : 2
+  "manifest_version": 2
 }
-
