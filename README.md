@@ -2,7 +2,7 @@
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/users/abehfkkfjlplnjadfcjiflnejblfmmpj.svg)](https://chrome.google.com/webstore/detail/nord/abehfkkfjlplnjadfcjiflnejblfmmpj/)
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/stars/abehfkkfjlplnjadfcjiflnejblfmmpj.svg)](https://chrome.google.com/webstore/detail/nord/abehfkkfjlplnjadfcjiflnejblfmmpj/)
 
-<img src="https://github.com/Kevinwochan/Nord-Google-Chrome-Chromium/blob/master/preview.jpeg" width="600">
+<img src="https://github.com/Kevinwochan/Nord-Google-Chrome-Chromium/blob/main/preview.jpeg" width="600">
 
 # Installation
 ### From the Chrome Webstore
