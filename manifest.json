@@ -1,7 +1,8 @@
 {
-  "version": "2.4.4",
+  "manifest_version": 3,
+  "version": "3.4.4",
   "name": "Nord",
-  "description": "A theme based of the Nord colour swatch by arctic ice studios",
+  "description": "A theme based on the Nord colour swatch by Arctic Ice Studios",
   "icons": {
     "16": "icon16.png",
     "48": "icon48.png",
@@ -14,24 +15,18 @@
     "colors": {
       "frame": [36, 41, 51],
       "frame_inactive": [36, 41, 51],
-
       "frame_incognito": [36, 41, 51],
       "frame_incognito_inactive": [36, 41, 51],
-
       "background_tab": [36, 41, 51],
       "background_tab_inactive": [41, 46, 56],
-
       "bookmark_text": [216, 222, 233],
       "button_background": [36, 41, 51],
-
       "tab_background_text": [216, 222, 233],
       "tab_background_inactive": [255, 255, 0],
       "tab_text": [236, 239, 244],
-
       "toolbar": [59, 66, 82],
       "toolbar_button": [255, 255, 0],
       "toolbar_button_icon": [216, 222, 233],
-
       "ntp_background": [36, 41, 51],
       "ntp_header": [255, 255, 0],
       "ntp_link": [255, 255, 0],
@@ -44,6 +39,5 @@
       "ntp_background_alignment": "bottom",
       "ntp_background_repeat": "repeat-x"
     }
-  },
-  "manifest_version": 2
+  }
 }
